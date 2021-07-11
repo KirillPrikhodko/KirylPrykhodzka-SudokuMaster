@@ -1,11 +1,7 @@
-import React from 'react';
+import React from "react";
 
 const SudokuField = () => {
-    return (
-        <div>
-            PRIVET
-        </div>
-    )
-}
+  return <div>PRIVET</div>;
+};
 
 export default SudokuField;
